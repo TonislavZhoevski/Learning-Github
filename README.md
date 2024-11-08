@@ -1,3 +1,2 @@
 # Learning-Github
-<h1>Learning-Github</h1>
-<b>just</b> a sample repo for learning the basics of GitHub
+<span style="color:red">just a sample repo for learning</span> the basics of GitHub
